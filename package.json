@@ -1,6 +1,7 @@
 {
   "name": "mental-health",
   "private": true,
+  "homepage": "https://Matuwamai.github.io/mental-health",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
